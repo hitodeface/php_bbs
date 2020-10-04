@@ -24,9 +24,9 @@
 
 			
 			// DB接続設定
-			$dsn = 'tb220506db'; 
-			$username = 'tb-220506'; 
-			$password = 'wrEd9B5EZf';
+			$dsn = 'xxxxxxxx'; 
+			$username = 'xxxxxxxx'; 
+			$password = 'xxxxxxxx';
 
 			try {
 				
